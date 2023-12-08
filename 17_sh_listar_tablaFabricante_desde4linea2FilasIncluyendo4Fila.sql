@@ -1,0 +1,1 @@
+SELECT * FROM tienda.fabricante limit 3,2;
